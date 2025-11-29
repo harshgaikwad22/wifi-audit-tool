@@ -252,7 +252,9 @@ python3 main.py sensitive.pcap
 ## 👥 Contributors
 
 Primary Contributors
+
 Harshwardhan Gaikwad – Project design, code development, wireless security analysis, documentation.
+
 Devagya - Code Development and documentation
 
 ---
