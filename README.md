@@ -249,6 +249,12 @@ python3 main.py sensitive.pcap
 * RSN parsing works only on Beacon/Probe Response frames.
 * Anonymization does **not** preserve cryptographic handshake integrity (PMKID, MIC, etc).
 
+## 👥 Contributors
+
+Primary Contributors
+Harshwardhan Gaikwad – Project design, code development, wireless security analysis, documentation.
+Devagya - Code Development and documentation
+
 ---
 
 
