@@ -1,5 +1,3 @@
----
-
 # Wi-Fi Audit Tool
 
 A modular Wi-Fi auditing toolkit built using **Scapy**, with support for:
@@ -9,8 +7,6 @@ A modular Wi-Fi auditing toolkit built using **Scapy**, with support for:
 * MAC anonymization for safe sharing
 * CSV/JSON exports
 * PCAP rewriting
-
----
 
 ## ✨ Features
 
